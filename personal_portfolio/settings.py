@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-jwu&zm)x820wp12p^*qr2vtdac0@&j3bp-p=y%+yis6xp#imo8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['cryptobot7.pythonanywhere.com','crypto-bot7.github.io/persno-porto']
+ALLOWED_HOSTS = ['piyushatghara.pythonanywhere.com']
 
 
 # Application definition
